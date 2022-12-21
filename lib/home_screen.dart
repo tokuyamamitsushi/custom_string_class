@@ -33,6 +33,7 @@ class _HomeScreenState extends State<HomeScreen> {
           Text("４）文字列の分割"),
           Text("例：text[a,b,c,d,e,f] text.split(c)"),
           _textsplit(),
+
         ],
       ),
     );

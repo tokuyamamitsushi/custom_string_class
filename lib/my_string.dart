@@ -1,4 +1,7 @@
 /*
+github_URL
+https://github.com/tokuyamamitsushi/custom_string_class
+
 ＜参考サイト＞
 Let us implement a complete String class step by step: construction, copy, assignment, move and destruction
 https://programmersought.com/article/64444852024/
@@ -43,6 +46,7 @@ https://www.geeksforgeeks.org/how-to-create-a-custom-string-class-in-c-with-basi
 ２）テキストの長さ（length）
 ３）文字列の一部取得（substring）
 ４）文字列の分割
+
 
 */
 
